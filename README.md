@@ -17,6 +17,6 @@ install requirement from requirements.txt</br>
 <code> pip install -r requirements.txt</code></br>
 
 Enable python from execution directory from setting
->setting> vscode://settings/python.terminal.executeInFileDir
+<setting> vscode://settings/python.terminal.executeInFileDir</setting>
  
  
