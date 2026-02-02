@@ -18,5 +18,8 @@ install requirement from requirements.txt</br>
 
 Enable python from execution directory from setting
 <setting> vscode://settings/python.terminal.executeInFileDir</setting>
+
+
+Courtesy: https://python.datalumina.com/
  
  
